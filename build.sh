@@ -2,6 +2,11 @@
 
 set -x
 
+mkdir -p bin
+
+fasm ./fasm/source/linux/fasm.asm
+
+mv ./fasm/source/linux/fasm bin
 
 if [ $# -eq 2 ]; then
 
