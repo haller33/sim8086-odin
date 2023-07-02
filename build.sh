@@ -25,3 +25,5 @@ else
     odin build src -out:sim8086.bin && echo "OK"
 
 fi
+
+mv ./sim8086.bin ./bin
