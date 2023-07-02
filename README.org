@@ -1,0 +1,16 @@
+
+* sim8086
+
+** A Implementation of 8086 arctecture on Odin!
+
+
+
+** demos
+
+
+** motivation
+
+
+* version of [[https://github.com/odin-lang/odin][Odin]]
+
+dev-2023-06:0c352213
